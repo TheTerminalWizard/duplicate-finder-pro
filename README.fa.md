@@ -94,8 +94,8 @@ pip install termuxgui
 
 برای اطلاع از شرایط استفاده، تغییر و انتشار مجدد پروژه، فایل "LICENSE" موجود در مخزن را بررسی کنید.
 
-🔗 پیوندهای پروژه
+## 🔗 پیوندهای پروژه
 
-- "مخزن Duplicate Finder Pro در GitHub" (https://github.com/TheTerminalWizard/duplicate-finder-pro)
-- "نسخه فارسی README" (https://github.com/TheTerminalWizard/duplicate-finder-pro/blob/main/README.fa.md)
-- "نسخه انگلیسی README" (https://github.com/TheTerminalWizard/duplicate-finder-pro/blob/main/README.md)
+- [مخزن Duplicate Finder Pro در GitHub](https://github.com/TheTerminalWizard/duplicate-finder-pro)
+- [نسخه فارسی README](https://github.com/TheTerminalWizard/duplicate-finder-pro/blob/main/README.fa.md)
+- [نسخه انگلیسی README](https://github.com/TheTerminalWizard/duplicate-finder-pro/blob/main/README.md)
