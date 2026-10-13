@@ -1,4 +1,5 @@
 [🇮🇷 فارسی](https://github.com/TheTerminalWizard/duplicate-finder-pro/blob/main/README.fa.md) | 🇬🇧 English
+
 Duplicate Finder Pro
 
 Duplicate Finder Pro is a Python-based project focused on identifying duplicate files and helping users manage redundant data through a graphical user interface.
