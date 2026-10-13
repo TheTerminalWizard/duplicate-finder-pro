@@ -1,3 +1,4 @@
+🌐 Language: "🇮🇷 فارسی" (README.fa.md) | 🇬🇧 English
 Duplicate Finder Pro
 
 Duplicate Finder Pro is a Python-based project focused on identifying duplicate files and helping users manage redundant data through a graphical user interface.
@@ -13,7 +14,3 @@ Project Goals
 - Support file management workflows in Termux on Android.
 - Help users identify redundant files while maintaining control over their data.
 - Develop the project into a more capable and user-friendly duplicate file management tool over time.
-
-Languages
-
-"🇬🇧 English" (#english) | "🇮🇷 فارسی" (#فارسی)
